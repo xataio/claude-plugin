@@ -10,6 +10,7 @@
   },
   "homepage": "https://xata.io/docs/platform/mcp",
   "repository": "https://github.com/xataio/claude-plugin",
+  "license": "Apache-2.0",
   "keywords": [
     "xata",
     "postgres",

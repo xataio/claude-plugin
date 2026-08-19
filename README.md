@@ -46,3 +46,7 @@ claude --plugin-dir /path/to/claude-plugin
 ```
 
 Use `/mcp` to confirm that the `xata` server is connected and to complete or reset authentication.
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
