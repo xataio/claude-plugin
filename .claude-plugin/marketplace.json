@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "xata",
+  "description": "Official Xata plugins for Claude Code.",
+  "owner": {
+    "name": "Xata",
+    "url": "https://xata.io"
+  },
+  "plugins": [
+    {
+      "name": "xata",
+      "source": "./"
+    }
+  ]
+}

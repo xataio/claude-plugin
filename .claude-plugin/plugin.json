@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "xata",
+  "displayName": "Xata",
+  "version": "1.0.0",
+  "description": "Manage Xata projects, Postgres branches, schemas, data, and platform resources through the Xata MCP server.",
+  "author": {
+    "name": "Xata",
+    "url": "https://xata.io"
+  },
+  "homepage": "https://xata.io/docs/platform/mcp",
+  "repository": "https://github.com/xataio/claude-plugin",
+  "keywords": [
+    "xata",
+    "postgres",
+    "database",
+    "branching",
+    "mcp"
+  ]
+}

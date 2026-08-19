@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xata": {
+      "type": "http",
+      "url": "https://api.xata.tech/mcp"
+    }
+  }
+}
